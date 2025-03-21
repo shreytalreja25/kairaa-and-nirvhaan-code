@@ -1,0 +1,20 @@
+body {
+    margin: 0
+}
+
+#navbar {
+    background-color: green;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.nav-item li {
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: lighter;
+}
